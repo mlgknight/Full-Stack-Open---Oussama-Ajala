@@ -1,0 +1,19 @@
+.pop-up-green {
+  color: lightgreen;
+  background: white;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.pop-up-red {
+  color: rgb(180, 10, 10);
+  background: white;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
